@@ -1,6 +1,6 @@
 # Apex Legends Cheat
 
-[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/SfkrK75HNj)
 
 Welcome to the **Apex Legends Cheat**, a functional replica of popular cheat interfaces used in Apex Legends.
 ---
